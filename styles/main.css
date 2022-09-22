@@ -10929,6 +10929,10 @@ textarea.form-control-lg {
     display: none !important;
   }
 }
+.body {
+  background-color: #f5f5f5;
+}
+
 .intro {
   height: 100vh;
   position: relative;
@@ -11113,4 +11117,27 @@ textarea.form-control-lg {
   height: 5px;
   background-color: #0078ff;
   margin: 0 auto;
+}
+
+/*======================================
+//--//-->   SERVICES
+======================================*/
+.service-box {
+  background-color: #fff;
+  padding: 2.5rem 1.3rem;
+  border-radius: 1rem;
+  margin-bottom: 3rem;
+}
+.service-box .service-ico {
+  text-align: center;
+}
+.service-box .service-ico .ico-circle {
+  transition: all 500ms ease;
+  font-size: 8rem;
+}
+.service-box .s-title {
+  font-size: 1.4rem;
+  text-transform: uppercase;
+  text-align: center;
+  padding: 0.4rem 0;
 }/*# sourceMappingURL=main.css.map */

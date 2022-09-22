@@ -10,3 +10,6 @@
 # process
 - after initial commit, have to move the minified version of bootstrap.js and typed.js to vendors folder, 
 to avoid load all node_modules
+
+# others
+- https://brittanychiang.com/ interesting portfolio
