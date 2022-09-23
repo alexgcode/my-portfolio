@@ -8,4 +8,15 @@ if ($('.text-slider').length == 1) {
 			backDelay: 1100,
 			backSpeed: 30
 		});
-	}
+}
+
+
+//----scrolled navbar
+//let nav = document.querySelector(".navbar");
+$(function () {
+	$(document).scroll(function () {
+		var $nav = $(".navbar-b");
+		console.log($nav);
+		$nav.toggleClass('navbar-b--scrolled', $(this).scrollTop() > ($nav.height()));
+	  });
+  });

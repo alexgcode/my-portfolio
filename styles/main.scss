@@ -67,6 +67,7 @@
     justify-content: space-between;
 }
 
+
 .navbar-b {
 
     transition: all .5s ease-in-out;
@@ -78,13 +79,13 @@
         color: #fff;
         font-size: 1.6rem;
         font-weight: 600;
-      }
+    }
 
       .nav-item {
         position: relative;
         padding-right: 10px;
         padding-left: 10px;
-      }
+    }
 
     
     .nav-link {
@@ -126,7 +127,10 @@
             left: 15px; 
         }
     }
-      
+
+    &--scrolled {
+      background-color: black;
+    }
 }
 
 
