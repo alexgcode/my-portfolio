@@ -13,3 +13,8 @@ to avoid load all node_modules
 
 # others
 - https://brittanychiang.com/ interesting portfolio
+- https://arc.dev/developer-blog/web-developer-portfolio/
+
+https://profy.dev/article/portfolio-websites-survey
+
+- https://resumegenius.com/cover-letter-examples/web-developer-cover-letter
