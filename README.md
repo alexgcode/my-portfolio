@@ -27,3 +27,20 @@ https://profy.dev/article/portfolio-websites-survey
 
 - for frondendmentor https://medium.com/frontend-mentor/how-to-get-the-most-out-of-frontend-mentor-bdd6fdc25cb8
 - for fronend mentor no pixel perfection https://www.joshwcomeau.com/css/pixel-perfection/
+
+# ideas
+- https://hirosht.medium.com/integrate-the-testlink-with-an-automation-framework-e3b6a70d1db1
+
+- ad a gear preloading animation (como animacion de carga primero antes de que cargue toda la pagina)
+    https://www.youtube.com/watch?v=rC1EyB5PDSg&ab_channel=InventionTricks(how to build it)
+    https://dribbble.com/shots/2057777-Hammer-CSS-Keyframe-Animation (one i like)
+    https://medium.com/techtrument/simple-css-loading-animation-bafe96a384ce
+    https://loading.io/icon/?keyword=gear (assets database)
+    https://www.crazyegg.com/blog/loading-spinners-css3-animation/ (how to create one from scratch)
+
+# todo
+- follow the docker tutorial from the getting starter app in docker containers
+
+
+# good blog post
+https://adamwathan.me/css-utility-classes-and-separation-of-concerns/
