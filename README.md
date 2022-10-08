@@ -40,7 +40,7 @@ https://profy.dev/article/portfolio-websites-survey
 
 # todo
 - follow the docker tutorial from the getting starter app in docker containers
-
+- enhance the portfolio cards to show what tools I used to build it
 
 # good blog post
 https://adamwathan.me/css-utility-classes-and-separation-of-concerns/
