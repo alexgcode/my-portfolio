@@ -6,10 +6,13 @@
 - como cargar bootstrap https://www.youtube.com/watch?v=kANNWN_--UA&ab_channel=KikoPalomares
 - uso de typed.js (jquery plugin) para animacion de tecleado https://github.com/mattboldt/typed.js
 - underline animation https://codepen.io/jstn/pen/mdoOZJ
+- centering stuffs in bootstrap https://www.codeply.com/p/O8BLz8ic1X
+- https://getbootstrap.com/docs/4.0/components/scrollspy/ (for detecting active nav item)
 
 # process
 - after initial commit, have to move the minified version of bootstrap.js and typed.js to vendors folder, 
 to avoid load all node_modules
+- adding scroll spy for underline nav items
 
 # others
 - https://brittanychiang.com/ interesting portfolio
@@ -44,3 +47,6 @@ https://profy.dev/article/portfolio-websites-survey
 
 # good blog post
 https://adamwathan.me/css-utility-classes-and-separation-of-concerns/
+
+# resume builder
+https://arc.dev/resume/builder/edit

@@ -18,5 +18,12 @@ $(function () {
 		var $nav = $(".navbar-b");
 		console.log($nav);
 		$nav.toggleClass('navbar-b--scrolled', $(this).scrollTop() > ($nav.height()));
+
+		if ($nav) {
+			new bootstrap.ScrollSpy(document.body, {
+				target: '.navbar-b',
+				offset: $nav.height(),
+			});
+		};
 	  });
-  });
+});

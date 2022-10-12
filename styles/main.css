@@ -11036,6 +11036,10 @@ textarea.form-control-lg {
   width: 50%;
   left: 15px;
 }
+.navbar-b .nav-link:focus:after {
+  width: 50%;
+  left: 15px;
+}
 .navbar-b .nav-link:hover:after {
   width: 50%;
   left: 15px;

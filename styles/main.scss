@@ -122,6 +122,11 @@
             }
         }
 
+        &:focus:after{
+          width: 50%; 
+          left: 15px; 
+      }
+
         &:hover:after{
             width: 50%; 
             left: 15px; 

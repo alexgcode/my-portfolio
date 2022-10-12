@@ -38,6 +38,9 @@
               <li class="nav-item">
                 <a class="nav-link js-scroll" href="#portfolio">Portfolio</a>
               </li>
+              <li class="nav-item">
+                <a class="nav-link js-scroll" href="#contact">Contact</a>
+              </li>
               <!--
               <li class="nav-item">
                 <a class="nav-link js-scroll" href="#about">About</a>
@@ -306,6 +309,26 @@
             </div>
           </div>
 
+          <div class="col-md-4">
+            <div class="work-box">
+              <a href="#" data-bs-toggle="modal" data-bs-target="#portfolioModal" data-lightbox="gallery-mf">
+                <div class="work-img">
+                  <img src="images/rating-component.png" alt="" class="img-fluid">
+                </div>
+                <div class="work-content">
+                  <div class="row">
+                    <div class="col">
+                      <h2 class="w-title text-center">Ratingddd Component</h2>
+                      <div class="w-more text-center">
+                        <span class="w-ctegory">Frontend Mentor</span> / <span class="w-date">Aug. 2022</span>
+                      </div>
+                    </div>
+                  </div>
+                </div>
+              </a>
+            </div>
+          </div>
+
         </div>
       </div>
     </section>
@@ -349,6 +372,40 @@
       
       
     </footer>
+
+    <div class="portfolio-modal modal fade" id="portfolioModal" tabindex="-1" aria-labelledby="portfolioModal" aria-hidden="true">
+      <div class="modal-dialog modal-lg">
+        <div class="modal-content">
+          <div class="modal-header">
+            <h5 class="modal-title" id="portfolioModal">Modal title</h5>
+            <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
+          </div>
+          <div class="modal-body">
+            <div class="container">
+              <div class="row justify-content-center pb-5">
+                  <div class="col-lg-8">
+                      <!-- Portfolio Modal - Title-->
+                      <h2 class="portfolio-modal-title text-center text-secondary text-uppercase mb-2">Tasty Cake</h2>
+                      
+                      <!-- Portfolio Modal - Image-->
+                      <img class="img-fluid rounded mb-5" src="./images/rating-component.png" alt="..." />
+                      <!-- Portfolio Modal - Text-->
+                      <p class="mb-4">
+                        A rating component card, Built it with HTML, CSS flexbox and Javascript.
+                      </p>
+                      <a href="https://alexgcode.github.io/rating-component-with-flexbox/">Live</a>
+                      <a href="https://github.com/alexgcode/rating-component-with-flexbox">Code</a>
+                  </div>
+              </div>
+            </div>
+          </div>
+          <div class="modal-footer">
+            <button type="button" class="btn btn-secondary" data-bs-dismiss="modal">Close</button>
+            <button type="button" class="btn btn-primary">Save changes</button>
+          </div>
+        </div>
+      </div>
+    </div>
 
 </body>
 </html>
